@@ -1,19 +1,21 @@
 # -------------------
 # Frontend - React
 # -------------------
-frontend/node_modules/
-frontend/build/
-frontend/.env
-frontend/.DS_Store
+# Frontend - React
+Frontend/project/node_modules/
+Frontend/project/build/
+Frontend/project/.env
+Frontend/project/.DS_Store
+
 
 # -------------------
 # Backend - Node.js
 # -------------------
-backend/node_modules/
-backend/.env
-backend/npm-debug.log*
-backend/yarn-debug.log*
-backend/yarn-error.log*
+Backend/node_modules/
+Backend/.env
+Backend/npm-debug.log*
+Backend/yarn-debug.log*
+Backend/yarn-error.log*
 
 # -------------------
 # Optional global
