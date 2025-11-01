@@ -1,2 +1,2 @@
-# AI-MarkProject
-Project of AI Company(Frontend&amp;Backend)
+# AI-Mark-Project
+Project of AI Company (Frontend & Backend)
